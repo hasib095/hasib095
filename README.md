@@ -86,13 +86,13 @@ Currently, I am focusing on **JavaScript, TypeScript, React, Next.js, and modern
 
 ---
 🎯 My Goals
-🚀 Become a professional Full Stack Web Developer
-⚛️ Build more real-world React applications
-▲ Become comfortable with Next.js
-🧠 Improve problem-solving and programming skills
-🤝 Contribute to open-source projects
-💼 Prepare for a professional software engineering career
-💡 My Development Philosophy
+* 🚀 Become a professional Full Stack Web Developer
+* ⚛️ Build more real-world React applications
+* ▲ Become comfortable with Next.js
+* 🧠 Improve problem-solving and programming skills
+* 🤝 Contribute to open-source projects
+* 💼 Prepare for a professional software engineering career
+* 💡 My Development Philosophy
 
 "Learn by building, improve by practicing, and grow by solving real problems."
 
